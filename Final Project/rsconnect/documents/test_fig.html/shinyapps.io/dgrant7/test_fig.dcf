@@ -1,0 +1,11 @@
+name: test_fig
+title:
+username:
+account: dgrant7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6098967
+bundleId: 5802580
+url: https://dgrant7.shinyapps.io/test_fig/
+when: 1650036141.24748
+lastSyncTime: 1650036141.24748
